@@ -5,3 +5,4 @@
 /.vs
 /SemanticConsole/bin
 /SemanticConsole/obj
+/node_modules
