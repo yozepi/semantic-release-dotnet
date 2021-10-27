@@ -11,6 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "md", "md", "{841FD4F6-BE95-
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "semantic-release-config", "semantic-release-config", "{51DC564E-03A1-415C-8DF9-830F9B246613}"
+	ProjectSection(SolutionItems) = preProject
+		.releaserc = .releaserc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

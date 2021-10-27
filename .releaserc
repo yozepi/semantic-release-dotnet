@@ -1,0 +1,12 @@
+{
+    "branches": [
+        "main",
+        "next",
+        "feature/setup-project"
+    ],
+    "plugins": [
+        "@semantic-release/commit-analyzer"
+    ],
+    "ci": true,
+    "dryRun": true
+}

@@ -2,12 +2,7 @@
   "name": "semantic-release-dotnet",
   "version": "0.0.0",
   "description": "Musings and experiments with semantic release and dotnet core.",
-  "scripts": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yozepi/semantic-release-dotnet.git"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "bugs": {
