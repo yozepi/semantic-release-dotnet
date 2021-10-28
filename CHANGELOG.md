@@ -1,3 +1,10 @@
+# [1.3.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.2...v1.3.0-rc.1) (2021-10-28)
+
+
+### Features
+
+* Create a release candidate. ([8677cee](https://github.com/yozepi/semantic-release-dotnet/commit/8677ceeca7fc9819c434ca0687d14f5126da609f))
+
 ## [1.2.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.1...v1.2.2) (2021-10-28)
 
 
