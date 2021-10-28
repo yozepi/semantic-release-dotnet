@@ -1,7 +1,5 @@
 {
     "branches": [
-        "main",
-        "next",
         "feature/setup-project"
     ],
     "plugins": [
