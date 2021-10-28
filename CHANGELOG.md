@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.2...v1.3.0) (2021-10-28)
+
+
+### Features
+
+* I have a release ([#7](https://github.com/yozepi/semantic-release-dotnet/issues/7)) ([5bc6e6d](https://github.com/yozepi/semantic-release-dotnet/commit/5bc6e6d124559a2bb989f702f380cf43d0c8186f))
+
 # [1.3.0-rc.3](https://github.com/yozepi/semantic-release-dotnet/compare/v1.3.0-rc.2...v1.3.0-rc.3) (2021-10-28)
 
 
