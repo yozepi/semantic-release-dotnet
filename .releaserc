@@ -9,7 +9,5 @@
   ],
   "plugins": [
     "@semantic-release/commit-analyzer"
-  ],
-  "ci": true,
-  "dryRun": true
+  ]
 }
