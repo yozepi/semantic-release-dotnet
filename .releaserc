@@ -1,10 +1,15 @@
 {
-    "branches": [
-        "feature/setup-project"
-    ],
-    "plugins": [
-        "@semantic-release/commit-analyzer"
-    ],
-    "ci": true,
-    "dryRun": true
+  "branches": [
+    "main",
+    "next",
+    {
+      "name": "feature/setup-project",
+      "prerelease": true
+    }
+  ],
+  "plugins": [
+    "@semantic-release/commit-analyzer"
+  ],
+  "ci": true,
+  "dryRun": true
 }
