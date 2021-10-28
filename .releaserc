@@ -1,12 +1,4 @@
 {
-    "branches": [
-        "main",
-        "next",
-        {
-            "name": "feature/setup-project",
-            "prerelease": true
-        }
-    ],
     "plugins": [
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
