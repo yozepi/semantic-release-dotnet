@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.1...v1.2.2) (2021-10-28)
+
+
+### Bug Fixes
+
+* Add id to release. ([d441a2e](https://github.com/yozepi/semantic-release-dotnet/commit/d441a2ead843f206f4444e6873c8d3b4b18398dd))
+
 ## [1.2.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.0...v1.2.1) (2021-10-28)
 
 
