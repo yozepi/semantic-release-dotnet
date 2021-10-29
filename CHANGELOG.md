@@ -1,3 +1,15 @@
+# [1.3.0-rc.4](https://github.com/yozepi/semantic-release-dotnet/compare/v1.3.0-rc.3...v1.3.0-rc.4) (2021-10-29)
+
+
+### Bug Fixes
+
+* Add id to release. ([58d8061](https://github.com/yozepi/semantic-release-dotnet/commit/58d8061f8f9f7f9355633621cc7466465dd1b93b))
+
+
+### Features
+
+* I have a release ([#7](https://github.com/yozepi/semantic-release-dotnet/issues/7)) ([4bcbd55](https://github.com/yozepi/semantic-release-dotnet/commit/4bcbd555698ee0e60004cbced646ef90dbbdee0e))
+
 # [1.3.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.2...v1.3.0) (2021-10-28)
 
 
