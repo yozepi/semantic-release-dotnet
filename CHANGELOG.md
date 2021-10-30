@@ -1,3 +1,10 @@
+# [1.5.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.4.1-rc.1...v1.5.0-rc.1) (2021-10-30)
+
+
+### Features
+
+* nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([e9143c6](https://github.com/yozepi/semantic-release-dotnet/commit/e9143c61f68e6590f01033abad053269b0f53514))
+
 ## [1.4.1-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.4.0...v1.4.1-rc.1) (2021-10-29)
 
 
