@@ -6,3 +6,5 @@
 /SemanticConsole/bin
 /SemanticConsole/obj
 /node_modules
+/ExampleUnitTests/bin
+/ExampleUnitTests/obj

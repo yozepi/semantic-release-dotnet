@@ -1,4 +1,11 @@
-# [1.6.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0...v1.6.0) (2021-11-01)
+# [1.6.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0...v1.6.0-rc.1) (2021-11-01)
+
+
+### Features
+
+* Add unit tests. ([dc301ab](https://github.com/yozepi/semantic-release-dotnet/commit/dc301ab95502ebeda38de4595928d40a02fb4fbf))
+
+# [1.5.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.4.1...v1.5.0) (2021-11-01)
 
 
 ### Features
