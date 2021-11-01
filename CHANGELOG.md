@@ -1,3 +1,16 @@
+# [1.6.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.6.0-rc.1...v1.6.0-rc.2) (2021-11-01)
+
+
+### Bug Fixes
+
+* fix the bug. ([77d8bfe](https://github.com/yozepi/semantic-release-dotnet/commit/77d8bfee899e5f4148d1a2db903dc7c66cfb6895))
+
+
+### Features
+
+* broke the  bug. ([01c7c35](https://github.com/yozepi/semantic-release-dotnet/commit/01c7c350c139d503b17d0c67f6105f5fa17ecf8a))
+* move unit tests to yaml workflow ([6e474b7](https://github.com/yozepi/semantic-release-dotnet/commit/6e474b7ada77003b4fa073a36204bfe2c0dc8c80))
+
 # [1.7.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.6.0...v1.7.0) (2021-11-01)
 
 
