@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.4.0...v1.4.1) (2021-11-01)
+
+
+### Bug Fixes
+
+* Remove npm release dependency. ([4aab606](https://github.com/yozepi/semantic-release-dotnet/commit/4aab6060f73e59360d48e6b0f90d9f47cc28fd58))
+
 # [1.5.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0-rc.1...v1.5.0-rc.2) (2021-11-01)
 
 
