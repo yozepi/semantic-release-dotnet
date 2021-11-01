@@ -16,7 +16,7 @@ namespace ExampleUnitTests
         [TestMethod]
         public void AnotherTest()
         {
-            bool anotherBool = true;
+            bool anotherBool = false;
             anotherBool.Should().BeTrue();
         }
     }
