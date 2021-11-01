@@ -20,6 +20,10 @@ jobs:
         with:
           dotnet-version: 3.1.x
 
+      - name: Run Unit Tests
+        id: unittest
+        run: dotnet test ./ExampleUnitTests/ExampleUnitTests.csproj --configuration=Release
+
       - name: Update and Pack the Release
         id: semantic
         uses: cycjimmy/semantic-release-action@v2
