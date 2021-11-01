@@ -1,3 +1,13 @@
+# [2.0.0-beta.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.0-beta.1...v2.0.0-beta.1) (2021-11-01)
+
+
+* Merge pull request #43 from yozepi/feature/more-documentation ([98b1033](https://github.com/yozepi/semantic-release-dotnet/commit/98b10335ad2588e816a39d32b5ba26c60a6374f2)), closes [#43](https://github.com/yozepi/semantic-release-dotnet/issues/43)
+
+
+### BREAKING CHANGES
+
+* pack during prepare.
+
 # [1.2.0-beta.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.1.1-beta.1...v1.2.0-beta.1) (2021-11-01)
 
 
