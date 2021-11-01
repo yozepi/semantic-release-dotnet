@@ -14,5 +14,4 @@ I've learned the following so far:
 - You will want to pack your package from within @semantic-release instead of within your github action. This is because, by the time the action has access to the new release version the release has already been tagged and the changelog overwritten. If your back (and build) should fail now, you will have to manually unwind the tagging and commits.
 
 
-
 [Change Log](CHANGELOG.md)
