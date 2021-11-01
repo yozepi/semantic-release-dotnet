@@ -11,7 +11,7 @@
         [
             "@semantic-release/exec",
             {
-                "publishCmd": "dotnet pack -o ./artifacts/nuget -p:Version=${nextRelease.version}"
+                "successCmd": "dotnet pack -o ./artifacts/nuget -p:Version=${nextRelease.version}"
             }
         ],
         [
@@ -20,7 +20,7 @@
                 "assets": [
                     "CHANGELOG.md"
                 ],
-                "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+                "message": "Tag release #${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
             }
         ]
     ]
