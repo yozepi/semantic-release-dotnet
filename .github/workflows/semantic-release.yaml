@@ -33,17 +33,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup .NET Environment
-        id: dotnet
-        if: steps.semantic.outputs.new_release_published == 'true'
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: 3.1.x
-
-      - name: NuGet Pack
-        id: pack
-        run: dotnet pack -o ./artifacts/nuget -p:Version=${{ steps.semantic.outputs.new_release_version }}
-
       - name: Publish Artifacts
         id: artifacts
         uses: actions/upload-artifact@v2.2.4
