@@ -1,4 +1,4 @@
-# 1.0.0 (2021-11-01)
+# 1.0.0-rc.1 (2021-11-01)
 
 
 ### Bug Fixes
@@ -30,6 +30,7 @@
 * I have a release ([#7](https://github.com/yozepi/semantic-release-dotnet/issues/7)) ([4bcbd55](https://github.com/yozepi/semantic-release-dotnet/commit/4bcbd555698ee0e60004cbced646ef90dbbdee0e))
 * I have a release ([#7](https://github.com/yozepi/semantic-release-dotnet/issues/7)) ([5bc6e6d](https://github.com/yozepi/semantic-release-dotnet/commit/5bc6e6d124559a2bb989f702f380cf43d0c8186f))
 * initialize workflow ([0a71918](https://github.com/yozepi/semantic-release-dotnet/commit/0a71918e9fc28a9a277d34cb72e6156f860e4ffe))
+* make tagging a chore. ([5fa9583](https://github.com/yozepi/semantic-release-dotnet/commit/5fa95837f7498dc4aa44e644415e98e5708a2bec))
 * Merge from Next ([158aa5b](https://github.com/yozepi/semantic-release-dotnet/commit/158aa5b6fac20edb666b21a2252f7b873ccf3263)), closes [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1)
 * Move dotnet pack to the semantic-release workflow. ([2b2a41a](https://github.com/yozepi/semantic-release-dotnet/commit/2b2a41a6d60f91b1b00d2a81c469bf5b25e3b704))
 * Move dotnet pack to the semantic-release workflow. ([6f7cded](https://github.com/yozepi/semantic-release-dotnet/commit/6f7cdedb986dc83e3bede26a165c73ec625e59ce))
@@ -37,9 +38,19 @@
 * nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([af720a7](https://github.com/yozepi/semantic-release-dotnet/commit/af720a7b9a4bd1745be1c423d344e34657c3b6cb))
 * nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([0576606](https://github.com/yozepi/semantic-release-dotnet/commit/057660611fff4b6950f8da19457d522dfb5ab634))
 * nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([e9143c6](https://github.com/yozepi/semantic-release-dotnet/commit/e9143c61f68e6590f01033abad053269b0f53514))
+* reset changelog ([3ef2cce](https://github.com/yozepi/semantic-release-dotnet/commit/3ef2cce0698199e41374bab266b1845cf1136366))
+* reset changelog again. ([beeb7c8](https://github.com/yozepi/semantic-release-dotnet/commit/beeb7c84e23569dfd9e03b975e729aeec5d0897c))
 * Reset the notes. ([89733d1](https://github.com/yozepi/semantic-release-dotnet/commit/89733d166b51184d97504297b89d8fc4269d13bf))
 * Reset the notes. ([3a50216](https://github.com/yozepi/semantic-release-dotnet/commit/3a502168f8b8e56ac08b5a79e20da1f20fe06f78))
 * Reset the notes. ([dd926ce](https://github.com/yozepi/semantic-release-dotnet/commit/dd926cefc139d2aef42b6709b13072015c5b744a))
 * Second feature? ([72cb266](https://github.com/yozepi/semantic-release-dotnet/commit/72cb2664ffdddc4cadd9ad200300553f067ed21c))
 * start from scratch ([0b5a406](https://github.com/yozepi/semantic-release-dotnet/commit/0b5a40604c91df7d1b432ce145cf7dfaf28519ae))
+* Starting again. ([271a3bc](https://github.com/yozepi/semantic-release-dotnet/commit/271a3bc7747b92e4fa83cc7413caa3ef6ba6a34e))
 * try updating changelog (again) ([96eead9](https://github.com/yozepi/semantic-release-dotnet/commit/96eead9434bc51e9d12727632bc904ee8fc037a8))
+
+# [1.0.0-beta.4](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2021-11-01)
+
+
+### Features
+
+* Starting again. ([271a3bc](https://github.com/yozepi/semantic-release-dotnet/commit/271a3bc7747b92e4fa83cc7413caa3ef6ba6a34e))
