@@ -1,3 +1,10 @@
+# [1.8.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.8.0-rc.1...v1.8.0-rc.2) (2021-11-01)
+
+
+### Bug Fixes
+
+* make tagging a "chore". ([de59e4e](https://github.com/yozepi/semantic-release-dotnet/commit/de59e4e93e036d1e263b32e71c9825e461e6b3e6))
+
 # [1.8.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.7.0...v1.8.0-rc.1) (2021-11-01)
 
 
