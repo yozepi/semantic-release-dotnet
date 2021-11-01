@@ -12,5 +12,12 @@ namespace ExampleUnitTests
             bool thisIsABool = true;
             thisIsABool.Should().BeTrue();
         }
+
+        [TestMethod]
+        public void AnotherTest()
+        {
+            bool anotherBool = true;
+            anotherBool.Should().BeTrue();
+        }
     }
 }
