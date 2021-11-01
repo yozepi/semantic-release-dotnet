@@ -14,15 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # - name: Setup Node
-      #   uses: actions/setup-node@v2
-      #   with:
-      #     node-version: 14.x
+      - name: Setup .NET Environment
+        id: dotnet
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 3.1.x
 
-      # - name: Install Semantic-Release dependencies
-      #   run: npm install
-
-      - name: Semantic-Release
+      - name: Update and Pack the Release
         id: semantic
         uses: cycjimmy/semantic-release-action@v2
         with:
@@ -30,13 +28,20 @@ jobs:
           branches: "['main', 'next', {name: 'rc', prerelease: true}]"
           extra_plugins: |
             @semantic-release/changelog
+            @semantic-release/exec
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Do something when a new release published
-        if: steps.semantic.outputs.new_release_published == 'true'
+      - name: Publish Artifacts
+        id: artifacts
+        uses: actions/upload-artifact@v2.2.4
+        with:
+          name: artifacts
+          path: ./artifacts/**/*.*
+          retention-days: 0
+
+      - name: Display Release Info
         run: |
-          echo New Release? ${{ steps.semantic.outputs.new_release_version }}
           echo Last Release: ${{ steps.semantic.outputs.last_release_version }}
           echo This Release: ${{ steps.semantic.outputs.new_release_version }}
