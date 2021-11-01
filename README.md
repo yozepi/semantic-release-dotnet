@@ -10,6 +10,6 @@ I've learned the following so far:
   - Rebasing causes some weirdness because, when pulling from other semantic branches, the last check-in is usually the automated tag - which is marked with **[skip ci]**. This will keep your workflow from running.
   - When using *BREAKING CHANGE:* be sure you have at least one release that's pertinent to that build type first.
     Example: *BREAKING CHANGE:* will not work on the beta channel if there isn't a \*.\*.\*-beta.\* release first.
-
+- Although unit tests can be run within @semantic-release, It's better to run them in github action prior to running @semantic-release. This is because @semantic-release will analyze all the changes before running the tests. Which is a waste of time if the tests are going to fail anyway.
 
 [Change Log](CHANGELOG.md)
