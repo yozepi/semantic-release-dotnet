@@ -1,3 +1,15 @@
+# [1.2.0-beta.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.1.1-beta.1...v1.2.0-beta.1) (2021-11-01)
+
+
+### Bug Fixes
+
+* update the readme. ([9f6c74c](https://github.com/yozepi/semantic-release-dotnet/commit/9f6c74c85eac2c4b717ce4da3f8565603d36904c))
+
+
+### Features
+
+* Update the readme. ([96fb777](https://github.com/yozepi/semantic-release-dotnet/commit/96fb77788e4a51d7f4af69cb5e58e597bfbda9c9))
+
 # [1.2.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.1.1-rc.1...v1.2.0-rc.1) (2021-11-01)
 
 
