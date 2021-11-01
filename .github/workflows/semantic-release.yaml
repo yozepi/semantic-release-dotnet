@@ -29,7 +29,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v2
         with:
           semantic_version: 18.0.0
-          branches: "['main', 'next', {name: 'rc', prerelease: true}, {name: 'beta', prerelease: true}]"
+          branches: "[{name: 'beta', prerelease: true}]"
           extra_plugins: |
             @semantic-release/changelog
             @semantic-release/exec
