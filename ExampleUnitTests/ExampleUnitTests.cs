@@ -9,7 +9,7 @@ namespace ExampleUnitTests
         [TestMethod]
         public void ExampleTest()
         {
-            bool thisIsABool = true;
+            bool thisIsABool = false;
             thisIsABool.Should().BeTrue();
         }
     }
