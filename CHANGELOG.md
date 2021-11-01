@@ -1,9 +1,21 @@
 # [2.0.0-beta.2](https://github.com/yozepi/semantic-release-dotnet/compare/v2.0.0-beta.1...v2.0.0-beta.2) (2021-11-01)
 
+# [2.0.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.0-rc.1...v2.0.0-rc.1) (2021-11-01)
+
 
 ### Bug Fixes
 
 * Replace double-line with single-line ([78e2c6b](https://github.com/yozepi/semantic-release-dotnet/commit/78e2c6b8bc67a952e19fcc5a5f87d2bc5a516619))
+
+* update the readme. ([9f6c74c](https://github.com/yozepi/semantic-release-dotnet/commit/9f6c74c85eac2c4b717ce4da3f8565603d36904c))
+
+
+* Merge pull request #43 from yozepi/feature/more-documentation ([98b1033](https://github.com/yozepi/semantic-release-dotnet/commit/98b10335ad2588e816a39d32b5ba26c60a6374f2)), closes [#43](https://github.com/yozepi/semantic-release-dotnet/issues/43)
+
+
+### BREAKING CHANGES
+
+* pack during prepare.
 
 # [2.0.0-beta.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.2.0-beta.1...v2.0.0-beta.1) (2021-11-01)
 
