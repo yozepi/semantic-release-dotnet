@@ -14,15 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # - name: Setup Node
-      #   uses: actions/setup-node@v2
-      #   with:
-      #     node-version: 14.x
+      - name: Setup .NET Environment
+        id: dotnet
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 3.1.x
 
-      # - name: Install Semantic-Release dependencies
-      #   run: npm install
-
-      - name: Semantic-Release
+      - name: Update and Pack the Release
         id: semantic
         uses: cycjimmy/semantic-release-action@v2
         with:
@@ -33,17 +31,6 @@ jobs:
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup .NET Environment
-        id: dotnet
-        if: steps.semantic.outputs.new_release_published == 'true'
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: 3.1.x
-
-      - name: NuGet Pack
-        id: pack
-        run: dotnet pack -o ./artifacts/nuget -p:Version=${{ steps.semantic.outputs.new_release_version }}
 
       - name: Publish Artifacts
         id: artifacts
