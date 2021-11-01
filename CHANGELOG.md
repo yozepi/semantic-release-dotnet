@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.7.0...v1.8.0) (2021-11-01)
+
+
+### Features
+
+* Merge from RC ([a84a07c](https://github.com/yozepi/semantic-release-dotnet/commit/a84a07c79036f5b94b7fddea6b77f7f0b99175c4)), closes [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1)
+
 # [1.8.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.7.0...v1.8.0-rc.1) (2021-11-01)
 
 
