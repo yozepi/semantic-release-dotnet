@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace SemanticConsole
 {
-    class Program
+    class Programme
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,7 @@ namespace SemanticConsole
             string fileVersion = FileVersionInfo.GetVersionInfo(assem.Location).FileVersion;
 
             Console.WriteLine("Semantic version example app!");
-            Console.WriteLine("=================================");
+            Console.WriteLine("---------------------------------");
             Console.WriteLine("Assembly version:\t{0}", assemblyVersion);
             Console.WriteLine("File version:\t\t{0}", fileVersion);
         }
