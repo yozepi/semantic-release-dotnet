@@ -1,3 +1,11 @@
+# [1.5.0-rc.3](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0-rc.2...v1.5.0-rc.3) (2021-11-01)
+
+
+### Features
+
+* Move dotnet pack to the semantic-release workflow. ([6f7cded](https://github.com/yozepi/semantic-release-dotnet/commit/6f7cdedb986dc83e3bede26a165c73ec625e59ce))
+* nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([0576606](https://github.com/yozepi/semantic-release-dotnet/commit/057660611fff4b6950f8da19457d522dfb5ab634))
+
 # [1.5.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0-rc.1...v1.5.0-rc.2) (2021-11-01)
 
 
