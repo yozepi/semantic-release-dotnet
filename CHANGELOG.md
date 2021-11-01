@@ -1,19 +1,32 @@
+# [1.7.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.6.0...v1.7.0) (2021-11-01)
+
+
+### Features
+
+* Add unit tests. ([dc301ab](https://github.com/yozepi/semantic-release-dotnet/commit/dc301ab95502ebeda38de4595928d40a02fb4fbf))
+
+# [1.6.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0...v1.6.0-rc.1) (2021-11-01)
+
+
+### Features
+
+* Add unit tests. ([dc301ab](https://github.com/yozepi/semantic-release-dotnet/commit/dc301ab95502ebeda38de4595928d40a02fb4fbf))
+
 # [1.5.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.4.1...v1.5.0) (2021-11-01)
 
 
 ### Features
 
+* Move dotnet pack to the semantic-release workflow. ([2b2a41a](https://github.com/yozepi/semantic-release-dotnet/commit/2b2a41a6d60f91b1b00d2a81c469bf5b25e3b704))
+* nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([af720a7](https://github.com/yozepi/semantic-release-dotnet/commit/af720a7b9a4bd1745be1c423d344e34657c3b6cb))
+
+# [1.5.0-rc.3](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0-rc.2...v1.5.0-rc.3) (2021-11-01)
+
+
+### Features
+
 * Move dotnet pack to the semantic-release workflow. ([6f7cded](https://github.com/yozepi/semantic-release-dotnet/commit/6f7cdedb986dc83e3bede26a165c73ec625e59ce))
-* Move dotnet pack to the semantic-release workflow. ([3a110de](https://github.com/yozepi/semantic-release-dotnet/commit/3a110de74265a18c77bab163605e27bef3686ff9))
 * nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([0576606](https://github.com/yozepi/semantic-release-dotnet/commit/057660611fff4b6950f8da19457d522dfb5ab634))
-* nuget pack and save as artifact ([#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)) ([e9143c6](https://github.com/yozepi/semantic-release-dotnet/commit/e9143c61f68e6590f01033abad053269b0f53514))
-
-## [1.4.1](https://github.com/yozepi/semantic-release-dotnet/compare/v1.4.0...v1.4.1) (2021-11-01)
-
-
-### Bug Fixes
-
-* Remove npm release dependency. ([4aab606](https://github.com/yozepi/semantic-release-dotnet/commit/4aab6060f73e59360d48e6b0f90d9f47cc28fd58))
 
 # [1.5.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.5.0-rc.1...v1.5.0-rc.2) (2021-11-01)
 
