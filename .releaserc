@@ -11,7 +11,6 @@
         [
             "@semantic-release/exec",
             {
-                "prepareCmd": "dotnet test ./ExampleUnitTests/ExampleUnitTests.csproj --configuration=Release",
                 "successCmd": "dotnet pack -o ./artifacts/nuget --configuration=Release -p:Version=${nextRelease.version}"
             }
         ],
