@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace SemanticConsole
 {
-    class Program
+    class Programme
     {
         static void Main(string[] args)
         {
