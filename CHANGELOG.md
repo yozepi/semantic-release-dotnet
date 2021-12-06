@@ -1,3 +1,56 @@
+# [1.0.0-rc.4](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.3...v1.0.0-rc.4) (2021-12-06)
+
+
+### Bug Fixes
+
+* fix typo on the event trigger. ([e15de8f](https://github.com/yozepi/semantic-release-dotnet/commit/e15de8f3f260d06696e4c3e3f439c6639ff850e0))
+
+
+### chore
+
+* Tag release [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1).0.0-rc.2 [skip ci] ([c980927](https://github.com/yozepi/semantic-release-dotnet/commit/c980927701458265e9ccc94e07977b902244e9fd)), closes [#43](https://github.com/yozepi/semantic-release-dotnet/issues/43) [#2](https://github.com/yozepi/semantic-release-dotnet/issues/2) [#7](https://github.com/yozepi/semantic-release-dotnet/issues/7) [#7](https://github.com/yozepi/semantic-release-dotnet/issues/7) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)
+
+
+### BREAKING CHANGES
+
+* ** Add files to the release. ([32001ad](https://github.com/yozepi/semantic-release-dotnet/commit/32001ada1c19d019f1fd4d7423641d89f716f029))
+
+### BREAKING CHANGES
+
+* ** Include NuGet Package with release. ([0abc7d2](https://github.com/yozepi/semantic-release-dotnet/commit/0abc7d21a774788f73f5e58039fcd68ee44602ed))
+* **breaking-change:** Create github release ([4e3c417](https://github.com/yozepi/semantic-release-dotnet/commit/4e3c41798ff48504bf1db54011dc620e8051ebad))
+* Clean slate. ([8d2bcc1](https://github.com/yozepi/semantic-release-dotnet/commit/8d2bcc107f9fc583cfb93a679423b533a651f9d4))
+* Clean the slate ([7144876](https://github.com/yozepi/semantic-release-dotnet/commit/7144876653bf3dfdb794e5e19e4d7b18cf2d2279))
+* Create a release candidate. ([8677cee](https://github.com/yozepi/semantic-release-dotnet/commit/8677ceeca7fc9819c434ca0687d14f5126da609f))
+
+# [1.0.0-rc.3](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.2...v1.0.0-rc.3) (2021-12-06)
+
+
+### Features
+
+* Publish NugetPackage upon pre-release ([ddf6a00](https://github.com/yozepi/semantic-release-dotnet/commit/ddf6a00595881784db1c5a39a0f3e9504eb95177))
+
+# [1.0.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.1...v1.0.0-rc.2) (2021-12-06)
+
+
+### chore
+
+* Tag release [#1](https://github.com/yozepi/semantic-release-dotnet/issues/1).0.0-rc.1 [skip ci] ([8c5e1af](https://github.com/yozepi/semantic-release-dotnet/commit/8c5e1af0fca2748dc05e8024edc1685f108614e3)), closes [#43](https://github.com/yozepi/semantic-release-dotnet/issues/43) [#2](https://github.com/yozepi/semantic-release-dotnet/issues/2) [#7](https://github.com/yozepi/semantic-release-dotnet/issues/7) [#7](https://github.com/yozepi/semantic-release-dotnet/issues/7) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10) [#10](https://github.com/yozepi/semantic-release-dotnet/issues/10)
+
+
+### Features
+
+* **breaking change:** Add files to the release. ([32001ad](https://github.com/yozepi/semantic-release-dotnet/commit/32001ada1c19d019f1fd4d7423641d89f716f029))
+
+
+### BREAKING CHANGES
+
+* ** Include NuGet Package with release. ([0abc7d2](https://github.com/yozepi/semantic-release-dotnet/commit/0abc7d21a774788f73f5e58039fcd68ee44602ed))
+* **breaking-change:** Create github release ([4e3c417](https://github.com/yozepi/semantic-release-dotnet/commit/4e3c41798ff48504bf1db54011dc620e8051ebad))
+* Clean slate. ([8d2bcc1](https://github.com/yozepi/semantic-release-dotnet/commit/8d2bcc107f9fc583cfb93a679423b533a651f9d4))
+* Clean the slate ([7144876](https://github.com/yozepi/semantic-release-dotnet/commit/7144876653bf3dfdb794e5e19e4d7b18cf2d2279))
+* Create a release candidate. ([8677cee](https://github.com/yozepi/semantic-release-dotnet/commit/8677ceeca7fc9819c434ca0687d14f5126da609f))
+
 # 1.0.0-rc.1 (2021-12-06)
 
 
