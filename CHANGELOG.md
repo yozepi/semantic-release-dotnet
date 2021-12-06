@@ -1,3 +1,10 @@
+# [1.0.0-rc.3](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.2...v1.0.0-rc.3) (2021-12-06)
+
+
+### Features
+
+* Publish NugetPackage upon pre-release ([ddf6a00](https://github.com/yozepi/semantic-release-dotnet/commit/ddf6a00595881784db1c5a39a0f3e9504eb95177))
+
 # [1.0.0-rc.2](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.1...v1.0.0-rc.2) (2021-12-06)
 
 
