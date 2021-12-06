@@ -18,4 +18,4 @@ jobs:
         target: SemanticConsole.${{ github.ref_name }}.nupkg
 
     - name: Publish the Package
-      run: dotnet nuget push "SemanticConsole.${{ github.ref_name }}.nupkg" --api-key ${{ secrets.GITHUB_TOKEN }} --source "https://nuget.pkg.github.com/yozepi/index.json"
+      run: dotnet nuget push "SemanticConsole.${{ github.ref_name }}.nupkg" --api-key ${{ secrets.MY_PACKAGE_TOKEN }} --source "https://nuget.pkg.github.com/yozepi/index.json"
