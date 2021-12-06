@@ -1,3 +1,10 @@
+# [1.0.0-rc.6](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.5...v1.0.0-rc.6) (2021-12-06)
+
+
+### Bug Fixes
+
+* change package token ([ffe9584](https://github.com/yozepi/semantic-release-dotnet/commit/ffe95845f4b6a8cd57a45294e8fa2969f7944187))
+
 # [1.0.0-rc.5](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2021-12-06)
 
 
