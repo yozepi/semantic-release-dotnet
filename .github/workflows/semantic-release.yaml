@@ -46,6 +46,13 @@ jobs:
           path: ./artifacts/**/*.*
           retention-days: 0
 
+      - name: Publish the Release
+        uses: softprops/action-gh-release@v1
+        if: steps.semantic.outputs.new_release_published == 'true'
+        with:
+          tag_name: ${{ steps.semantic.outputs.new_release_version }}
+          body: ${{ steps.semantic.outputs.new_release_notes }}
+
       - name: Display Release Info
         run: |
           echo Last Release: ${{ steps.semantic.outputs.last_release_version }}
