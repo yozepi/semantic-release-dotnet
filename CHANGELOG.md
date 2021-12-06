@@ -1,3 +1,10 @@
+# [1.0.0-rc.8](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.7...v1.0.0-rc.8) (2021-12-06)
+
+
+### Features
+
+* create local package. ([f379284](https://github.com/yozepi/semantic-release-dotnet/commit/f3792847626a642ffacf1ce60604ceacf76995e3))
+
 # [1.0.0-rc.7](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.6...v1.0.0-rc.7) (2021-12-06)
 
 
