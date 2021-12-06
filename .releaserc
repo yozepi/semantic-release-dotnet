@@ -9,12 +9,6 @@
             }
         ],
         [
-            "@semantic-release/exec",
-            {
-                "prepareCmd": "dotnet pack -o ./artifacts/nuget --configuration=Release -p:Version=${nextRelease.version}"
-            }
-        ],
-        [
             "@semantic-release/git",
             {
                 "assets": [
