@@ -1,3 +1,10 @@
+# [1.0.0-rc.5](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2021-12-06)
+
+
+### Bug Fixes
+
+* add a comment ([1475682](https://github.com/yozepi/semantic-release-dotnet/commit/1475682fd8286cd0f2238b2a4a3bcd6d01d0fd9c))
+
 # [1.0.0-rc.4](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.3...v1.0.0-rc.4) (2021-12-06)
 
 
