@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0...v1.1.0) (2021-12-06)
+
+
+### Features
+
+* **breaking-change:** Create github release ([4e3c417](https://github.com/yozepi/semantic-release-dotnet/commit/4e3c41798ff48504bf1db54011dc620e8051ebad))
+
 # 1.0.0 (2021-12-06)
 
 
