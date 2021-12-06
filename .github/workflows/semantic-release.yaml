@@ -52,7 +52,8 @@ jobs:
         with:
           tag_name: ${{ steps.semantic.outputs.new_release_version }}
           body: ${{ steps.semantic.outputs.new_release_notes }}
-
+          file: ./artifacts/**/*.*
+          
       - name: Display Release Info
         run: |
           echo Last Release: ${{ steps.semantic.outputs.last_release_version }}
