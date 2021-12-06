@@ -1,3 +1,10 @@
+# [1.0.0-rc.7](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.6...v1.0.0-rc.7) (2021-12-06)
+
+
+### Features
+
+* add nuget package info. ([344bd63](https://github.com/yozepi/semantic-release-dotnet/commit/344bd632bd4016af22b524b66a18d9f764d2ef14))
+
 # [1.0.0-rc.6](https://github.com/yozepi/semantic-release-dotnet/compare/v1.0.0-rc.5...v1.0.0-rc.6) (2021-12-06)
 
 
