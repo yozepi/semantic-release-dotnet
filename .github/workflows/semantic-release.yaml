@@ -1,4 +1,4 @@
-name: Release
+name: Create a Release
 
 on:
   workflow_dispatch:
@@ -48,7 +48,7 @@ jobs:
           tag_name: ${{ steps.semantic.outputs.new_release_version }}
           body: ${{ steps.semantic.outputs.new_release_notes }}
           files: ./artifacts/**/*.*
-          prerelease: ${{ github.ref_name != 'main' }}
+          prerelease: true
           
       - name: Display Release Info
         run: |
