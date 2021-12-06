@@ -1,3 +1,10 @@
+# [2.1.0-rc.1](https://github.com/yozepi/semantic-release-dotnet/compare/v2.0.0...v2.1.0-rc.1) (2021-12-06)
+
+
+### Features
+
+* Clean the slate ([8816f47](https://github.com/yozepi/semantic-release-dotnet/commit/8816f471aa3de918b3c68b7a93c210837baed316))
+
 # [2.1.0-beta.1](https://github.com/yozepi/semantic-release-dotnet/compare/v2.0.0...v2.1.0-beta.1) (2021-12-06)
 
 
