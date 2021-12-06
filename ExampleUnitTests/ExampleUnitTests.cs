@@ -13,6 +13,7 @@ namespace ExampleUnitTests
             thisIsABool.Should().BeTrue();
         }
 
+        // A comment
         [TestMethod]
         public void AnotherTest()
         {
