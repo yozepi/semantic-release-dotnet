@@ -1,8 +1,8 @@
 name: Publish a Pre-Release
 
 on:
-- release:
-  types: [prereleased]
+  release:
+    types: [prereleased]
 
 jobs:
   pre-release:
